@@ -1,4 +1,4 @@
-# **Project Name**
+# **Online Store**
 This project is a web application built with React and Tailwind CSS, featuring a fictional online store. It includes pages for browsing products, viewing product details, managing the shopping cart, and user authentication.
 
 ![webPage](./screenshot.png)
